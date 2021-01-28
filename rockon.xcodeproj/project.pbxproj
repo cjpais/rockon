@@ -14,6 +14,18 @@
 		BB0FE794256C2D26002CB27F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB0FE793256C2D26002CB27F /* Preview Assets.xcassets */; };
 		BB0FE79F256C2D26002CB27F /* rockonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0FE79E256C2D26002CB27F /* rockonTests.swift */; };
 		BB0FE7AA256C2D26002CB27F /* rockonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0FE7A9256C2D26002CB27F /* rockonUITests.swift */; };
+		BB0FE7BF256C6B69002CB27F /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0FE7BE256C6B69002CB27F /* LocationManager.swift */; };
+		BB7731102576E76A00BB7CF3 /* DetectedQRCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB77310F2576E76A00BB7CF3 /* DetectedQRCode.swift */; };
+		BB7731182576E87100BB7CF3 /* GymRouteResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7731172576E87100BB7CF3 /* GymRouteResponse.swift */; };
+		BB77311D2576E89100BB7CF3 /* GymRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB77311C2576E89100BB7CF3 /* GymRoute.swift */; };
+		BB7731222576E8CC00BB7CF3 /* GymSetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7731212576E8CC00BB7CF3 /* GymSetter.swift */; };
+		BB7731272576E8DC00BB7CF3 /* GymRope.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7731262576E8DC00BB7CF3 /* GymRope.swift */; };
+		BB77312D2576E8ED00BB7CF3 /* Gym.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB77312B2576E8EC00BB7CF3 /* Gym.swift */; };
+		BB77312E2576E8ED00BB7CF3 /* GymWall.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB77312C2576E8EC00BB7CF3 /* GymWall.swift */; };
+		BBE6AEAA256C73A50048E1A4 /* LocationInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE6AEA9256C73A50048E1A4 /* LocationInfo.swift */; };
+		BBE6AEAF256C80B60048E1A4 /* Something.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE6AEAE256C80B60048E1A4 /* Something.swift */; };
+		BBE6AEB4256C82090048E1A4 /* RockState.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE6AEB3256C82090048E1A4 /* RockState.swift */; };
+		BBF356D92576D3F0000D71E6 /* Dot.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF356D82576D3F0000D71E6 /* Dot.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +59,18 @@
 		BB0FE7A5256C2D26002CB27F /* rockonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rockonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB0FE7A9256C2D26002CB27F /* rockonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rockonUITests.swift; sourceTree = "<group>"; };
 		BB0FE7AB256C2D26002CB27F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB0FE7BE256C6B69002CB27F /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		BB77310F2576E76A00BB7CF3 /* DetectedQRCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectedQRCode.swift; sourceTree = "<group>"; };
+		BB7731172576E87100BB7CF3 /* GymRouteResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymRouteResponse.swift; sourceTree = "<group>"; };
+		BB77311C2576E89100BB7CF3 /* GymRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymRoute.swift; sourceTree = "<group>"; };
+		BB7731212576E8CC00BB7CF3 /* GymSetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymSetter.swift; sourceTree = "<group>"; };
+		BB7731262576E8DC00BB7CF3 /* GymRope.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymRope.swift; sourceTree = "<group>"; };
+		BB77312B2576E8EC00BB7CF3 /* Gym.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gym.swift; sourceTree = "<group>"; };
+		BB77312C2576E8EC00BB7CF3 /* GymWall.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GymWall.swift; sourceTree = "<group>"; };
+		BBE6AEA9256C73A50048E1A4 /* LocationInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationInfo.swift; sourceTree = "<group>"; };
+		BBE6AEAE256C80B60048E1A4 /* Something.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Something.swift; sourceTree = "<group>"; };
+		BBE6AEB3256C82090048E1A4 /* RockState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockState.swift; sourceTree = "<group>"; };
+		BBF356D82576D3F0000D71E6 /* Dot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +127,18 @@
 				BB0FE790256C2D26002CB27F /* Assets.xcassets */,
 				BB0FE795256C2D26002CB27F /* Info.plist */,
 				BB0FE792256C2D26002CB27F /* Preview Content */,
+				BB0FE7BE256C6B69002CB27F /* LocationManager.swift */,
+				BBE6AEA9256C73A50048E1A4 /* LocationInfo.swift */,
+				BBE6AEAE256C80B60048E1A4 /* Something.swift */,
+				BBF356D82576D3F0000D71E6 /* Dot.swift */,
+				BBE6AEB3256C82090048E1A4 /* RockState.swift */,
+				BB77310F2576E76A00BB7CF3 /* DetectedQRCode.swift */,
+				BB7731172576E87100BB7CF3 /* GymRouteResponse.swift */,
+				BB77311C2576E89100BB7CF3 /* GymRoute.swift */,
+				BB7731212576E8CC00BB7CF3 /* GymSetter.swift */,
+				BB7731262576E8DC00BB7CF3 /* GymRope.swift */,
+				BB77312B2576E8EC00BB7CF3 /* Gym.swift */,
+				BB77312C2576E8EC00BB7CF3 /* GymWall.swift */,
 			);
 			path = rockon;
 			sourceTree = "<group>";
@@ -262,8 +298,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB7731272576E8DC00BB7CF3 /* GymRope.swift in Sources */,
+				BB7731182576E87100BB7CF3 /* GymRouteResponse.swift in Sources */,
+				BB7731102576E76A00BB7CF3 /* DetectedQRCode.swift in Sources */,
+				BB7731222576E8CC00BB7CF3 /* GymSetter.swift in Sources */,
+				BB77311D2576E89100BB7CF3 /* GymRoute.swift in Sources */,
+				BB77312E2576E8ED00BB7CF3 /* GymWall.swift in Sources */,
+				BBE6AEB4256C82090048E1A4 /* RockState.swift in Sources */,
+				BB0FE7BF256C6B69002CB27F /* LocationManager.swift in Sources */,
 				BB0FE78D256C2D25002CB27F /* ContentView.swift in Sources */,
+				BBF356D92576D3F0000D71E6 /* Dot.swift in Sources */,
+				BBE6AEAF256C80B60048E1A4 /* Something.swift in Sources */,
 				BB0FE78B256C2D25002CB27F /* AppDelegate.swift in Sources */,
+				BB77312D2576E8ED00BB7CF3 /* Gym.swift in Sources */,
+				BBE6AEAA256C73A50048E1A4 /* LocationInfo.swift in Sources */,
 				BB0FE78F256C2D25002CB27F /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
